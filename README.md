@@ -10,7 +10,7 @@ This is a simple and delightful web page designed to spread love and joy on Vale
 ## Getting Started
 Clone the repository:
 
-'''bash
+```bash
 Copy code
 git clone [https://github.com/your-username/valentine_wish-webpage.git](#)
 Open the index.html file in your preferred web browser.
